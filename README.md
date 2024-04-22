@@ -5,3 +5,5 @@ The main document is 'Notes.ipynb' which contains:
   * Pictures of outside material that is relevant and helpful to this course.
 
 This document is developed in Jupyter notebook with the flexibility to be exported as HTML. It is not optimized for PDF exporting.
+
+The Folder 'SupplementaryMaterial' contains the pictures used in 'Notes'.
